@@ -1,0 +1,4 @@
+---
+config:
+    SSD1306SPI: null
+    SSD1306I2C: True
